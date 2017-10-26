@@ -294,11 +294,3 @@ function plusOrMinus(){
 	else return 1;
 }
 
-module.exports = {
-	constellation,
-	constellationFull,
-	constellationHSL,
-	constellationHue,
-	constellationPreset,
-	constellationRandom,
-};
